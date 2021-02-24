@@ -22,9 +22,9 @@ samples, guidance on mobile development, and a full API reference.
   </tr>
   
   <tr>
-    <td><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/screenshot/Screenshot1.jpg"  width="200"/></td>
-    <td><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/screenshot/Screenshot2.jpg"  width="200"/></td>
-    <td><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/screenshot/Screenshot3.jpg"  width="200"/></td>
+    <td><img src="https://github.com/mahirkursun/QRtoWEB/blob/main/screenshot/Screenshot1.jpg"  width="200"/></td>
+    <td><img src="https://github.com/mahirkursun/QRtoWEB/blob/main/screenshot/Screenshot2.jpg"  width="200"/></td>
+    <td><img src="https://github.com/mahirkursun/QRtoWEB/blob/main/screenshot/Screenshot3.jpg"  width="200"/></td>
 
   </tr>
   </table>
