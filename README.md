@@ -18,13 +18,13 @@ samples, guidance on mobile development, and a full API reference.
 
 <table border="2" align="center">
   <tr>
-    <td colspan="4" align="center" ><h1> Screenshots </h1> </td>
+    <td colspan="3" align="center" ><h1> Screenshots </h1> </td>
   </tr>
   
   <tr>
-    <td><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/screenshots/Screenshot1.JPG" alt="Your image title" width="200"/></td>
-    <td><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/screenshots/Screenshot2.JPG" alt="Your image title" width="200"/></td>
-    <td><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/screenshots/Screenshot3.JPG" alt="Your image title" width="200"/></td>
+    <td><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/screenshot/Screenshot1.JPG" alt="Your image title" width="200"/></td>
+    <td><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/screenshot/Screenshot2.JPG" alt="Your image title" width="200"/></td>
+    <td><img src="https://github.com/mahirkursun/Flutter-Mobil-Application/blob/main/screenshot/Screenshot3.JPG" alt="Your image title" width="200"/></td>
 
   </tr>
   </table>
